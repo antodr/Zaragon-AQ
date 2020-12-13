@@ -5,7 +5,7 @@
 
 class About:
     def __init__(self):
-        self.name = "Zaragon"
+        self.name = "Antonello"
         self.role = "IT visionary"
         self.knowledge_base = [
             "Azure",
