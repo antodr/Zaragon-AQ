@@ -11,7 +11,6 @@ class About:
             "Azure",
             "Prometheus",
             "Grafana",
-            "Zabbix",
             "ELK stack",
             "RabbitMQ",
             ".NET",
